@@ -1,0 +1,16 @@
+o que são variaveis?
+
+R: caixinha de valor; versatilidade, identificação
+
+
+Quais os principais tipos?
+
+> string -> São textos ou caracteres
+> int -> numeros inteiros 
+> float -> numeros fracionarios
+> Boleano -> verdadeiro ou falso 
+
+Qual a diferença de variaveis e constantes?
+ 
+ > variavel -> posso alterar o conteudo
+ > constantes -> não sofre uma alteração em seu conteudo
